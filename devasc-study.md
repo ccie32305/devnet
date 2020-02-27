@@ -2,7 +2,7 @@
 # DEVASC Study Notes
 
 Study notes which let me pass the DEVASC exam on 24th of Feb and made me DevNet 500
-
+![DevNet 500](https://raw.githubusercontent.com/ccie32305/devnet/master/img/CiscoDevNet500.png "Devnet")
 
 ## 1.0 Software Development and Design - 15%
 
@@ -627,6 +627,7 @@ ccie@vm:~# docker run hello-world
 
 ## Contribution
 Donate via Bitcoin -> 39Cb6RpuAoqWMSMXGT859PtHjDNTJpDKMp
+![btc](https://raw.githubusercontent.com/ccie32305/devnet/master/img/btc.png "BTC")
 
  or 
 
