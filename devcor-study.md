@@ -1,5 +1,5 @@
 # DEVCOR Study Notes
-Study notes which let me pass the DEVASC exam
+Study notes which let me pass the DEVCOR exam
 
 # 1.0 Software Development and Design
 ### 1.1 Describe distributed applications related to the concepts of front-end, back-end, and load balancing
